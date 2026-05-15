@@ -1,4 +1,4 @@
-
+updated Surfshark Connector | kill-switch + NAT-firewall offers the most advanced Surfshark connector, with kill-switch and NAT-firewall. Ideal for users who value privacy and
 
 
 
